@@ -3,6 +3,7 @@
 This repository contains a PDF document titled **Kubernetes Simplified: An Introductory Guide for Beginners**.
 
 I wrote this guide for beginners who want to understand Kubernetes and how it is used to manage containerized applications.
+Some images and diagrams are taken from public educational sources and are used for learning purposes.
 
 ## What This Document Covers
 
