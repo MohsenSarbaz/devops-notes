@@ -1,39 +1,53 @@
 # Kubernetes Simplified – Beginner Guide
 
-This repository contains a PDF document titled **Kubernetes Simplified: An Introductory Guide for Beginners**.
+This directory contains **two files**:
 
-I wrote this guide for beginners who want to understand Kubernetes and how it is used to manage containerized applications.
-Some images and diagrams are taken from public educational sources and are used for learning purposes.
+1. **Kubernetes Simplified – Beginner Guide (PDF)**  
+   A beginner-friendly document that explains Kubernetes concepts in simple language.
 
-## What This Document Covers
+2. **Kubernetes Installation Guide (Markdown)**  
+   A step-by-step guide that shows how I installed Kubernetes using `kubeadm`.
 
-In this PDF, you will learn:
+---
 
-- What Kubernetes is and why it is used
-- Basic Kubernetes concepts and components
-- How Kubernetes helps with deployment, scaling, and management
-- Simple explanations with practical examples
+## About the PDF Guide
 
-The goal is to make Kubernetes **easier to understand**, especially for people who are new to container orchestration.
+I wrote the **Kubernetes Simplified** PDF for people who are new to Kubernetes and want a clear, high-level understanding without getting lost in complex details.
 
-## Learning Approach
+The document explains:
+- What Kubernetes is
+- Why it is used
+- Core components and basic concepts
+- How Kubernetes manages containers
 
-To simplify complex topics, this guide includes:
-- Diagrams
-- Charts
-- Visual explanations
+Some diagrams and images are taken from public educational sources and are used only for learning purposes.
 
-These visual aids are used to help explain concepts more clearly and improve learning.
+---
+
+## About the Installation Guide
+
+The installation guide is a **practical, hands-on walkthrough** that shows:
+- How to prepare Linux servers
+- How to install Kubernetes step by step
+- How to initialize a cluster and add worker nodes
+
+This file is useful after reading the PDF, when you want to **apply the concepts in practice**.
+
+---
 
 ## Who This Is For
 
-This document is suitable for:
-- Beginners learning Kubernetes
-- DevOps and platform engineering learners
-- Anyone familiar with Docker who wants to move to Kubernetes
+- Kubernetes beginners
+- DevOps learners
+- Docker users moving to Kubernetes
+- Anyone who prefers simple explanations + hands-on examples
+
+---
 
 ## Feedback
 
-Kubernetes can be challenging at first.  
-If you have any questions, suggestions, or find something unclear, feel free to contact me or open an issue. Your feedback helps me improve this guide for future readers.
+Kubernetes can feel confusing at the beginning.  
+If something is unclear or you have suggestions, feel free to open an issue or contact me.
+
+Feedback is always welcome 🙂
 
