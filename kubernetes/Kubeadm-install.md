@@ -1,4 +1,4 @@
-#Building a Kubernetes v1.31 Cluster from Scratch on Ubuntu 24.04
+# Building a Kubernetes v1.31 Cluster from Scratch on Ubuntu 24.04
 
 This guide documents how I installed a **3-node Kubernetes cluster** using **kubeadm** and **containerd** on **Ubuntu 24.04**.
 ## Environment
@@ -10,7 +10,6 @@ This guide documents how I installed a **3-node Kubernetes cluster** using **kub
   - `k8s1-m` – Control Plane
   - `k8s2-w` – Worker
   - `k8s3-w` – Worker
-  - 
 ## Prerequisites
 - Static IP addresses
 - Internet access
